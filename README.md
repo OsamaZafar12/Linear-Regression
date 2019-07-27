@@ -1,4 +1,4 @@
 # Linear-Regression
 Implementation of simple linear regression model on salary dataset
 ## Theory of Linear Regression
-https://www.google.com.pk/url?sa=i&source=images&cd=&ved=2ahUKEwjruofz_tXjAhUQuRoKHd0iB9AQjRx6BAgBEAU&url=https%3A%2F%2Fwww.spss-tutorials.com%2Fsimple-linear-regression%2F&psig=AOvVaw2bgZmXXPgwNfkB9e3T01fP&ust=1564347540115347
+![simple-linear-regression-equation-linear-relation](https://user-images.githubusercontent.com/42785462/61999510-e9e5f900-b0db-11e9-8df4-fe9ecb05a4ae.png)
